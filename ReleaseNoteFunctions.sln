@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseNotes", "ParseNotes\ParseNotes.csproj", "{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rApiConnect", "rApiConnect\rApiConnect.csproj", "{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}.Debug|x86.ActiveCfg = Debug|x86
+		{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}.Debug|x86.Build.0 = Debug|x86
+		{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}.Release|Any CPU.ActiveCfg = Release|x86
+		{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}.Release|x86.ActiveCfg = Release|x86
+		{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}.Release|x86.Build.0 = Release|x86
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Debug|x86.Build.0 = Debug|Any CPU
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Release|x86.ActiveCfg = Release|Any CPU
+		{E09F9D0D-B1F1-4CBF-9F07-DA24B113BF41}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
